@@ -1,4 +1,4 @@
-## Caeden Telfer
+## 🚀 Caeden Telfer
 
 ![Caeden's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=caedentelfer&theme=radical)
 
