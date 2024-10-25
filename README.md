@@ -7,5 +7,5 @@
 - **🌐 Frontend tools:** React, Vue.js, Next.js, TailwindCSS, Bootstrap
 - **📡 Backend tools:** Node.js, Express, PostgreSQL, JWT (Authentication), OAuth
 - **⚙️ Development tools:** Git, CI/CD, Postman, JUnit5, Pitest, JaCoCo
-- **🗃 Database/Storage:(( Supabase, Firebase, Redis
+- **🗃 Database/Storage:** Supabase, Firebase, Redis
 
